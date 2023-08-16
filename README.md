@@ -1,4 +1,4 @@
 # TriangleSolver
 
-
-<img src="[https://github.com/favicon.ico](https://github.com/ashen99/TriangleSolver/blob/master/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-08-17%20at%2004.02.17.png?raw=true)https://github.com/ashen99/TriangleSolver/blob/master/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-08-17%20at%2004.02.17.png?raw=true" width="48">
+## Images
+![Simulator Screenshot - iPhone 14 Pro - 2023-08-17 at 04 02 23](https://github.com/ashen99/TriangleSolver/assets/29306300/c11e1c2d-64cc-46e6-81f8-31edc13875f6){:height="40px"}.
